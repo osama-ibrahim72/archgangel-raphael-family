@@ -31,7 +31,7 @@ class DashboardPanelProvider extends PanelProvider
     {
         return $panel
             ->default()
-            ->brandName(fn () => __('Micheal & Mark Meeting'))
+            ->brandName(fn () => __('Archangel Raphael Family'))
             ->id('dashboard')
             ->path('dashboard')
             ->login()
